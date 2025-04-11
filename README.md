@@ -1,5 +1,3 @@
-# Pure-Crumbs-Dashboard
-An interactive Excel dashboard project with macros and slicers for business insights.
 # 🍪 Pure Crumbs Sales Dashboard (Excel Project)
 
 Welcome to my Excel-based dashboard project, built for a fictional biscuit company called **Pure Crumbs**. This interactive dashboard delivers clear and actionable business insights with a clean, professional design and advanced Excel features.
