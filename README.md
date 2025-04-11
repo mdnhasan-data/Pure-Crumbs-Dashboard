@@ -60,11 +60,7 @@ The goal of this project is to **analyze and visualize** sales data for a biscui
 
 ---
 
-## 🎨 Dashboard Preview
 
-![Dashboard Screenshot](./Pure%20Crumbs%20Dashboard.png)
-
----
 
 ## 📌 Learnings & Takeaways
 
@@ -78,7 +74,7 @@ Through this project, I deepened my understanding of:
 
 ## 🤝 Let's Connect!
 
-If you have suggestions or feedback, feel free to open an issue or connect with me on [LinkedIn](https://linkedin.com).  
+If you have suggestions or feedback, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/nayemhasan09/)).  
 Happy to collaborate or discuss data projects! 🚀
 
 ---
