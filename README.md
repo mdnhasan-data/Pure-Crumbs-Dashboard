@@ -73,7 +73,7 @@ Through this project, I deepened my understanding of:
 
 ## 🤝 Let's Connect!
 
-If you have suggestions or feedback, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/nayemhasan09/)).  
+If you have suggestions or feedback, feel free to open an issue or connect with me on [LinkedIn]((https://www.linkedin.com/in/nayemhasan09/)).  
 Happy to collaborate or discuss data projects! 🚀
 
 ---
