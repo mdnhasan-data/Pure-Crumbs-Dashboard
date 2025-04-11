@@ -55,7 +55,6 @@ The goal of this project is to **analyze and visualize** sales data for a biscui
 ## 📂 Files Included
 
 - `PureCrumbs_Dashboard.xlsx` – Fully interactive Excel dashboard
-- `SampleData.xlsx` – (Optional) The raw dataset (if available)
 - `README.md` – Project documentation (you are here!)
 
 ---
